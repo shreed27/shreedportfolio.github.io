@@ -1,16 +1,23 @@
 # Data Scientist
 
+##CONNECT= - www.linkedin.com/in/shreed-shrivastava-0a1791279
+           - https://jaihowealthgrow.com/
+          
+
 ## Education
 - B.S., Data Sciences And Applications | The INDIAN INSTITUTE OF TECHONOLOGY MADRAS (IIT'M) (_APR 2024_)								       		
 - B.Tech., Computer Sciences	| The Chhattisagarh Swami Vivekanand Techinocal University (_AUGUST 2023_)
 
-## CERTIFICATIONS = ★ Certified [ DATA ANALYST], [ GOOGLE ]
+## CERTIFICATIONS =
+★ Certified [ DATA ANALYST], [ GOOGLE ]
 
 
-### Technical Skills = python | java | c | SQL | tableau | power bi | r | google cloud | google gemini 
+### Technical Skills = 
+python | java | c | SQL | tableau | power bi | r | google cloud | google gemini 
 
 
-## Other Skills = Methodology Selection, Data Synthesis ,Progress Tracking ,Solution Quality Assurance , ,Statistical Analysis ,Predictive Modeling ,Business ProcessImprovement , \Workflow Analysis ,Data expert ,Licensed Trader ,Qualitative analysis ,Bloomberg Terminal ,Debt financing ,Leadership Development ,Performance Management ,Operational Efficiency ,Decision Making ,User Experience Principles ,Agile Methodologies ,Research Abilities ,Problem-Solving ,Analytical and Critical Thinking , Data Modeling , 
+## Other Skills =
+Methodology Selection, Data Synthesis ,Progress Tracking ,Solution Quality Assurance , ,Statistical Analysis ,Predictive Modeling ,Business ProcessImprovement , \Workflow Analysis ,Data expert ,Licensed Trader ,Qualitative analysis ,Bloomberg Terminal ,Debt financing ,Leadership Development ,Performance Management ,Operational Efficiency ,Decision Making ,User Experience Principles ,Agile Methodologies ,Research Abilities ,Problem-Solving ,Analytical and Critical Thinking , Data Modeling , 
 
 
 ## Proffesional summary 
@@ -21,10 +28,12 @@ I am pursuing a dual degree in Data Science and Applications at IIT Madras and C
 ## Work Experience
 
 **Founder @JaiHoWealthGrow (2023.12 - Current)
+
 - JaiHoWealthGrow is an India 🇮🇳 financial services company .Offers equity investment ,retail , institutional Broking , currencies , commodities , forex , foreign exchange trading and financial consulting , guidance and education .
 
 
 ** Artificial Intelligence Intern @Cognizant ( INTERNSHIP Dec 2023 - Present 2mo)
+
 - Artificial Intelligence and Data Analytics Practice provides advanced data collection and management expertise, as well as artificial intelligence and analytics capabilities that help clients create highly personalized digital experiences, products and services at every touchpoint of the customer journey.
 - During this program, I get the opportunity to step into the shoes of a Cognizant team member and complete tasks that replicate the work that our Artificial Intelligence team does every day. I learned how to - perform exploratory data analysis, communicate results of a machine learning model, implement algorithm production, and review algorithm performance. 
 job sim A risk-free way to experience work on the job with us at Cognizant. Practice your skills with example tasks and build your confidence to ace your applications.
@@ -32,6 +41,7 @@ job sim A risk-free way to experience work on the job with us at Cognizant. Prac
 
 
 ** Quantitative Researcher @JPMorgan Chase & Co.(INTERNSHIP Nov 2023 - Dec 2023)
+
 - Quantitative Research (QR) is an expert quantitative modeling group at JPMorgan Chase, as well as a leader in financial engineering, data analytics, and portfolio management. 
 - As a global team, QR partners with traders, marketers, and risk managers across all products and regions and contributes to sales and client interaction, product innovation, valuation, risk management,
 - inventory and portfolio optimization, electronic trading and market making, and appropriate financial risk controls. 
@@ -42,6 +52,7 @@ job sim A risk-free way to experience work on the job with us at Cognizant. Prac
 
 
 ** Data Scientist @British Airways (INTERNSHIP Oct 2023 - Nov 2023)
+
 - I had the opportunity to step into the shoes of British Airways team member and complete tasks that replicate the work that our Data Science team does every day. Learnt how to scrape customer review data and build predictive models.
 - job Sim=A risk-free way to experience work on the job at BRITISH AIRWAYS . Practiced my skills with example tasks and build my confidence to ace my applicationsI had the opportunity to step into the shoes of British Airways team member and complete tasks that replicate the work that our Data Science team does every day. Learnt how to scrape customer review data and build predictive models. job Sim=A risk-free way to experience work on the job at BRITISH AIRWAYS . Practiced my skills with example tasks and build my confidence to ace my applications
 - Skills: Web Scraping Data Manipulation PowerPoint Python
@@ -49,6 +60,7 @@ job sim A risk-free way to experience work on the job with us at Cognizant. Prac
 
 
 ** Data Analyst @Quantium (Internship Oct 2023 · 1 mo)
+
 - Took part in the challenging but fun work our data analysts do daily! Learnt practical skills such as data validation, data visualisation, statistical testing and more
 - job Sim=A risk-free way to experience work on the job at QUANTIUM. Practiced my skills with example tasks and build my confidence to ace my applicationsTook part in the challenging but fun work our data analysts do daily! Learnt practical skills such as data validation, data visualisation, statistical testing and more job Sim=A risk-free way to experience work on the job at QUANTIUM. Practiced my skills with example tasks and build my confidence to ace my applications
 - Skills: Commercial thinking, Statistical testing, Presentation skills, Communication skills
@@ -56,6 +68,7 @@ job sim A risk-free way to experience work on the job with us at Cognizant. Prac
 
 
 ** Solutions Architect @Amazon Web Services, AWS (2023.09 - 2023.09)
+
 - Got to know sneak peak into the AWS hosting architecture design process whilst also teaching you the fundamentals of our global company
 - I got familiarize yourself with how solution architects effectively communicate with clients whilst also learning about billing structures which are key to providing commercial solutions for our clients all over the world
 - Job Sim=A risk-free way to experience work on the job with us at AWS, Practiced my skills with example tasks and build my confidence to ace my applications
@@ -63,6 +76,7 @@ job sim A risk-free way to experience work on the job with us at Cognizant. Prac
 
 
 ** Data Analyst and Visualization @ACCENTURE (INTERNSHIP Sep 2023 · 1 mo)
+
 - Deep dive into the evolving world of data from an analytics and visualization perspective with Navigating Numbers. Learned 
 data basics such as data cleaning, modeling, visualization and storytelling.
 - Job Sim=A risk-free way to experience work on the job with at Accenture uk. Practiced my skills with example tasks and build my confidence to ace my application
@@ -70,6 +84,7 @@ data basics such as data cleaning, modeling, visualization and storytelling.
 
 
 ** Strategy Consultant @ACCENTURE (INTERNSHIP aug 2023 .1mo)
+
 - Build valuable skills in areas such as stakeholder management, strategic thinking, analytical thinking, decision-making, data interpretation as well as user experience and process design.
 - Job Sim=A risk-free way to experience work on the job at Accenture UK. Practiced my skills with example tasks and build your confidence to ace my applicationsBuild valuable skills in areas such as stakeholder management, strategic thinking, analytical thinking, decision-making, data interpretation as well as user experience and process design. Job Sim=A risk-free way to experience work on the job at Accenture UK. Practiced my skills with example tasks and build your confidence to ace my applications
 - Skills: Market Research, Market Analysis ,User Journey Design, Customer Experience Design ,Process Mapping
@@ -77,17 +92,20 @@ data basics such as data cleaning, modeling, visualization and storytelling.
 
 
 - ** Investment Banking Analyst @JPMorgan Chase & Co. (INTERNSHIP·Jun 2023)·
+- 
 - job Sim=A risk-free way to experience work on the job at JPMORGAN CHASE &CO. Practiced my skills with example tasks and build my confidence to ace myapplicationsjob Sim=A risk-free way to experience work on the job at JPMORGAN CHASE &CO. Practiced my skills with example tasks and build my confidence to ace myapplications
 Skills: M&A Screening, Cross-team Collaboration, Strategic Rationale, M&A Process Understanding, DCF
 
 
 ** Market Specialist (sales and trading) @JPMorgan Chase & Co (INTERNSHIP 2023.5 - 2023.5)
+
 - At JPMorgan Chase, are experts in financial markets, working as a collaborative and supportive team across sales, trading and research to deliver exciting opportunities for our clients. We help them execute complex transactions, develop deep relationships and provide profound insights based on data analysis.
 - familiarized myself with the different roles across sales, trading and research and undertake tasks that closely reflect what our markets teams do day in and day out. By completing the virtual experience, builded the skills to set up for success in your career in markets at JPMorgan Chase.
 - job sim=A risk-free way to experience work on the job at JPMorgan Chase. Practiced my skills with example tasks and build my confidence to ace my applications.
 
 
 ## Projects
+
 ## ★ Analyzing Apple Inc.'s data  : 
 Analyzing Apple Inc.'s data involves parsing intricate patterns within financial metrics, market trends, and consumer behavior, enabling comprehensive insights into their product performance, strategic decisions, and overall market positioning. This data-driven approach unveils valuable perspectives for stakeholders, guiding informed decisions in the dynamic landscape of technology and consumer electronics.
 SKILLS ; { python , r , pandas , tableau ,  stats model, tensorflow , power bi }
